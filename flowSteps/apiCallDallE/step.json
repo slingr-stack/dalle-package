@@ -1,8 +1,8 @@
 {
-	"label": "API call to skeleton",
-	"name": "apiCallSkeleton",
+	"label": "API call to dall-e",
+	"name": "apiCallDallE",
 	"category": "integrations",
-	"description": "This flow step will send generic request to skeleton.",
+	"description": "This flow step will send generic request to dall-e.",
 	"inputs": [
 		{
 			"label": "Method",
