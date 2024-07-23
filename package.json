@@ -5,7 +5,7 @@
         {
             "type": "service",
             "name": "http",
-            "version": "v1.3.7",
+            "version": "v1.6.7",
             "instanceId": "shared"
         }
     ],
@@ -52,16 +52,6 @@
             "type": "listener",
             "namespace": "webhook",
             "path": "/listeners/webhook.js"
-        },
-        {
-            "type": "flowStep",
-            "namespace": "apiCallDallE",
-            "path": "/flowSteps/apiCallDallE"
-        },
-        {
-            "type": "flowStep",
-            "namespace": "createImageDallE",
-            "path": "/flowSteps/createImageDallE"
         }
     ]
 }
